@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tavishi-Sharma
-- 👀 I’m interested in web development and Android development
-- 🌱 I’m currently learning DSA with Java
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Android development
+- 🌱 I’m currently working with Android Studio and Java
+- 💞️ I’m looking to collaborate on Android Projects.
 - 📫 How to reach me ...
 
 <!---
